@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: New Experience WordPress
 subtitle:
 description:
 icon:
@@ -8,5 +8,5 @@ search:
   boost: 2 
 ---
 
-# Getting started
+# New Experience WordPress
 

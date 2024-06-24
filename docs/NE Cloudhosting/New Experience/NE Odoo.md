@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: New Experience Odoo
 subtitle:
 description:
 icon:
@@ -8,5 +8,4 @@ search:
   boost: 2 
 ---
 
-# Getting started
-
+# New Experience Odoo
