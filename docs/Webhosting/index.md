@@ -10,4 +10,6 @@ search:
 
 # Traditionele Webhosting
 
+Met onze transitie naar de [New Experience Cloudhosting](/docs/NE%20Cloudhosting/index.md), zullen we de traditionele webhosting blijven aanbieden aan bedrijven die daartoe nog de behoefte voor hebben; samen met de daaraan gekoppelde domeinhosting - waar je altijd terecht bent voor je domeinamen.
+
 ## Voor bedrijven
