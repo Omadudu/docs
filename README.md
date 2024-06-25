@@ -1,4 +1,4 @@
-# Quarkpulse Docs
+# Omadudu Documenatie
 
 Welkom bij de [QuarkPulse Docs](https://quarkpulse.github.io/docs/)! Deze repository bevat de bronbestanden voor de documentatie van Quarkpulse, een IT-bedrijf in Suriname dat IT-for-hire diensten levert voor kleine en middelgrote bedrijven.
 
