@@ -1,5 +1,5 @@
 ---
-title: Azure
+title: Azure Clouddiensten
 subtitle:
 description:
 icon:
@@ -8,5 +8,5 @@ search:
   boost: 2 
 ---
 
-# Azure Cloudservices
+# Azure Clouddiensten
 

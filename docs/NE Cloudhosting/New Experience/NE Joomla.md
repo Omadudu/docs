@@ -10,3 +10,4 @@ search:
 
 # New Experience Joomla
 
+## De voordelen

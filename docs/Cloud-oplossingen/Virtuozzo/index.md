@@ -1,5 +1,5 @@
 ---
-title: Virtuozzo Cloudservices
+title: Virtuozzo Clouddiensten
 subtitle:
 description:
 icon:
@@ -8,5 +8,5 @@ search:
   boost: 2 
 ---
 
-# Virtuozzo Cloudservices
+# Virtuozzo Clouddiensten
 

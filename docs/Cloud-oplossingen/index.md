@@ -1,5 +1,5 @@
 ---
-title: Cloud oplossingen
+title: Cloud-oplossingen
 subtitle:
 description:
 icon:
@@ -8,5 +8,5 @@ search:
   boost: 2 
 ---
 
-# Cloud oplossingen
+# Cloud-oplossingen
 

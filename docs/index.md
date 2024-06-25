@@ -10,3 +10,4 @@ search:
 
 # Getting started
 
+## De voordelen
