@@ -10,4 +10,4 @@ search:
 
 # New Experience Odoo
 
-## De voordelen
+## Voor bedrijven

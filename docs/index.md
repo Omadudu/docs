@@ -10,4 +10,4 @@ search:
 
 # Getting started
 
-## De voordelen
+## Voor bedrijven

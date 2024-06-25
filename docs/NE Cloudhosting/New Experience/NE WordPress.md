@@ -10,4 +10,4 @@ search:
 
 # New Experience WordPress
 
-## De voordelen
+## Voor bedrijven

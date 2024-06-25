@@ -10,4 +10,4 @@ search:
 
 # New Experience Cloudhosting
 
-## De voordelen
+## Voor bedrijven

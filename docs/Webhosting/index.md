@@ -10,4 +10,4 @@ search:
 
 # Traditionele Webhosting
 
-## De voordelen
+## Voor bedrijven

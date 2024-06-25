@@ -10,4 +10,4 @@ search:
 
 # New Experience PrestaShop
 
-## De voordelen
+## Voor bedrijven

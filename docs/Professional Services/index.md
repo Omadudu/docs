@@ -10,4 +10,4 @@ search:
 
 # Professional Services
 
-## De voordelen
+## Voor bedrijven

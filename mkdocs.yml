@@ -6,8 +6,8 @@ site_description: >-
 
 theme:
   name: material
-  favicon: assets/favicons.ico
-  logo: assets/logos.png
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
   font:
     text: Aptos
     code: Ubuntu Mono
