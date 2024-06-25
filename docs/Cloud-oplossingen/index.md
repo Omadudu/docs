@@ -10,12 +10,14 @@ search:
 
 # Cloud oplossingen
 
-**Cloud Oplossingen**
+## Cloud Oplossingen
 
-Bij OMADUDU N.V. bieden we uitgebreide cloudoplossingen om te voldoen aan de uiteenlopende behoeften van onze klanten. Onze partners zoals AWS, Azure en Virtuozzo stellen ons in staat om schaalbare, betrouwbare en veilige cloudomgevingen te leveren. Bekijk onze cloudoplossingen:
+Bij OMADUDU N.V. bieden we uitgebreide cloudoplossingen om te voldoen aan de uiteenlopende behoeften van onze klanten. Onze partners zoals AWS, Azure en Virtuozzo stellen ons in staat om schaalbare, betrouwbare en veilige cloudomgevingen te leveren. 
 
-- **[Azure](www.docs.omadudu.com/Cloud oplossingen/Azure)**
-- **[Virtuozzo](www.docs.omadudu.com/Cloud oplossingen/Virtuozzo)**
-- **[AWS](www.docs.omadudu.com/Cloud oplossingen/AWS)**
+Bekijk onze cloudoplossingen:
+
+- [Azure](/Cloud-oplossingen/Azure/)
+- [Virtuozzo](/Cloud-oplossingen/Virtuozzo/)
+- [AWS](/Cloud-oplossingen/AWS/)
 
 ---

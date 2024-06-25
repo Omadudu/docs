@@ -12,15 +12,15 @@ search:
 
 **Welkom bij de Omadudu Cloud Marketplace**
 
-Onze [Omadudu Cloud Marketplace](https://cp.omadudu.com) stelt bedrijven in staat om zakelijke licenties aan te schaffen en te beheren zonder het gedoe van buitenlandse overmakingen. Dit platform ondersteunt lokale bedrijven in Suriname door hen veilige, geautoriseerde softwareoplossingen te bieden.
+Onze [Omadudu Cloud Marketplace](https://cp.omadudu.com) stelt bedrijven in staat om zakelijke licenties aan te schaffen en te beheren zonder het gedoe van buitenlandse overmakingen, zoals de creditcard. Dit platform ondersteunt lokale bedrijven in Suriname door hen veilige, geautoriseerde softwareoplossingen te bieden.
 
 Ontdek onze partners en beschikbare producten:
 
-- **[Microsoft](www.docs.omadudu.com/Cloud Marketplace/Microsoft)**
-- **[Adobe](www.docs.omadudu.com/Cloud Marketplace/Adobe)**
-- **[Acronis](www.docs.omadudu.com/Cloud Marketplace/Acronis)**
-- **[Keeper](www.docs.omadudu.com/Cloud Marketplace/Keeper)**
-- **[KnowBe4](www.docs.omadudu.com/Cloud Marketplace/KnowBe4)**
-- **[Virtuozzo](www.docs.omadudu.com/Cloud Marketplace/Virtuozzo)**
+- [Microsoft](/Cloud%20Marketplace/)
+- [Adobe](/Cloud%20Marketplace/)
+- [Acronis](/Cloud%20Marketplace/)
+- [Keeper](/Cloud%20Marketplace/)
+- [KnowBe4](/Cloud%20Marketplace/)
+- [Virtuozzo](/Cloud%20Marketplace/)
 
 ---
