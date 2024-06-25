@@ -1,6 +1,6 @@
 ---
 title: Traditionele Webhosting
-subtitle: Introductie 
+subtitle:  
 description: 
 icon: 
 status: # nieuw updated outdated
