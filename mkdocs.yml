@@ -1,5 +1,5 @@
 site_name: Documentatie
-site_url: https://omadudu.github.io/docs/
+site_url: https://www.docs.omadudu.com/
 site_author: Omadudu
 site_description: >-
   Omadudu documentatie over de aangeboden diensten, voor bedrijven.
@@ -143,4 +143,4 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://omadudu.com/docs/" target="_blank" rel="noopener">OMADUDU N.V. Documentatie</a>
+  &copy; 2024 <a href="https://www.docs.omadudu.com/" target="_blank" rel="noopener">OMADUDU N.V. Documentatie</a>
